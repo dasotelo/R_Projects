@@ -6,7 +6,7 @@
 #
 ##############################
 #
-#  Author: Dave Sotelo
+#  Author: Dave Sotelo sotelo.d.a@gmail.com
 #  Date: March 28, 2017
 #
 ##############################
